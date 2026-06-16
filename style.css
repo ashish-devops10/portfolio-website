@@ -1,0 +1,18 @@
+body{
+    font-family: Arial;
+    text-align:center;
+    background:#f4f4f4;
+}
+
+header{
+    background:#0077cc;
+    color:white;
+    padding:20px;
+}
+
+button{
+    padding:10px 20px;
+    background:green;
+    color:white;
+    border:none;
+}
